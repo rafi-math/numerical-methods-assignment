@@ -4,9 +4,9 @@ The goal of this project is not just to make the code run — but to understand 
 
 Everything here is written in plain Python, without heavy libraries, so the logic stays transparent.
 
-📌 What This Repository Covers
+What This Repository Covers
 
-🔎 Root Finding Methods
+Root Finding Methods
 
 Bisection Method
 
@@ -14,7 +14,7 @@ Newton–Raphson Method
 
 Regula Falsi Method
 
-📈 Interpolation Methods
+Interpolation Methods
 
 Newton Forward Interpolation
 
@@ -24,23 +24,23 @@ Divided Difference Interpolation
 
 Interpolating Polynomial Construction
 
-🧮 Linear System Solvers
+Linear System Solvers
 
 LU Factorization
 
 Gauss–Jordan Elimination
 
-📊 Numerical Integration
+Numerical Integration
 
 Trapezoidal Rule (with error estimation)
 
-📉 Ordinary Differential Equations
+Ordinary Differential Equations
 
 Euler’s Method
 
 Runge–Kutta Method
 
-🎯 Purpose of This Project
+Purpose of This Project
 
 This project was built to:
 
@@ -55,13 +55,13 @@ Create a reusable reference for academic use
 No shortcuts. No black-box libraries.
 Just logic, mathematics and implementation.
 
-🛠 Requirements
+Requirements
 
 Python 3.x
 
 No external libraries required
 
-🚀 How to Run
+How to Run
 
 Clone the repository:
 
@@ -73,7 +73,7 @@ python main.py
 
 Or execute any individual method file separately.
 
-📚 Academic Context
+Academic Context
 
 These implementations are suitable for:
 
@@ -85,7 +85,7 @@ Scientific Computing practice
 
 Exam preparation and concept revision
 
-💡 Design Philosophy
+Design Philosophy
 
 Clarity over complexity.
 Understanding over optimization.
@@ -93,7 +93,7 @@ Structure over shortcuts.
 
 Every algorithm here can be traced line by line and matched with its mathematical formulation.
 
-👤 Author
+Author
 
 Md. Ali Arman Rafi
 BSc in Mathematics
